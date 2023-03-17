@@ -1,0 +1,2 @@
+class FundingRound:
+    pass

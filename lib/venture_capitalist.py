@@ -1,0 +1,2 @@
+class VentureCapitalist:
+    pass
