@@ -1,6 +1,6 @@
 from lib.funding_round import *
-from lib.startup import *
 from lib.venture_capitalist import *
+from lib.startup import *
 
 # code here
 # e.g.
