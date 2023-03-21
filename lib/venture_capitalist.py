@@ -1,5 +1,4 @@
-from lib.funding_round import *
-from lib.startup import *
+from .funding_round import FundingRound
 
 class VentureCapitalist:
     pass
