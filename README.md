@@ -3,6 +3,11 @@
 Welcome to Silicon Valley! For this assignment, our domain is the startup world! We have three models - `Startup`, `VentureCapitalist`, and `FundingRound`. A `Startup` has many `VentureCapitalist`s through `FundingRound`s.
 
 
+## Setup
+
+`pipenv install` will make sure we have ipdb included in our environment.  
+`pipenv shell` allows us access to that environment.  
+
 
 ## Topics
 
@@ -21,7 +26,7 @@ We've provided you with a console that you can use to test your code. To enter a
 **Remember!** This is an exercise without tests. You cannot run `pytest`. You'll need to create your own sample instances for testing purposes. Make sure your associations and methods work in the console before submitting.
 
 ## A note about notation
-When you see a '#', this means the functionality will be related to the instance, a '.', the class.
+When you see a '`#`', this means the functionality will be related to the instance, a '`.`', the class.
 
 ## Deliverables
 
